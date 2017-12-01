@@ -1,0 +1,39 @@
+Wal-Mart
+items
+PG
+552512057
+552512058
+552512127 
+
+553669962 
+
+GM
+100574
+2303591
+
+Sam's
+supplier 
+item
+HOST
+OMS
+
+641300899
+
+Test Items
+• GM UIN:  980000001
+• In GRS
+	○ GM Speed:  544382
+	○ GM CID:  10019242
+	○ GM Vndr:  538678630
+• DC 6057
+	○ PG UOM LB:  506555
+	○ PG UOM SC: 506569
+	○ PG VNDR:  295949640 
+	
+GM Items	DC	
+980000007	8307
+980000001	8307
+
+
+You want to test with DC 6057 for the items listed 
+
